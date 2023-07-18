@@ -1,0 +1,67 @@
+header{
+    top:0px;
+    left:0px;
+    color:black;
+    background-image:linear-gradient(120deg,orange,white,green);
+    height:50px;
+    width:100%;
+    padding:10px;
+    font-size:40px;
+    position:fixed;
+    margin-bottom:30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    /* text-shadow:2px 2px 20px; */
+    
+}
+
+.monuments{
+    color:black;
+    font-size:23px;
+     display:flex;
+    margin-top:20px;
+    border:2px solid black;
+    background-color:bisque;
+    box-shadow:10px 10px 45px;
+    border-radius:5px;
+}
+
+
+.hr{
+    margin-left:350px;
+    font-size:25px;
+}
+.t{
+    margin-left:20px;
+}
+.im{
+    width:270px;
+    height:200px;
+
+}
+footer{
+    margin-left:0px;
+    margin-bottom:0px;
+    background-color:darkcyan;
+    width:100%;
+    height:30px;
+    padding-right:40px;
+    padding-left:650px;
+    padding-top:6px;
+    padding-bottom:2px;
+    color:white;
+    font-size:23px;
+}
+
+body{
+    background-image:linear-gradient(120deg,pink,#B9D9EB);
+    background-size:cover;
+    background-repeat:no-repeat;
+    overflow-x:hidden;
+}
+
+#name{
+   font-size:28px;
+   color:darkmagenta;
+   margin-left:40px;
+   font-family:cursive
+}
